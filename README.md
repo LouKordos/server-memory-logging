@@ -1,6 +1,6 @@
 # Server Memory Logging Utility
 
-This repo uses [https://github.com/pixelb/ps_mem](ps_mem.py) to get the actual memory consumption of each program, parse its output and then save the data to a csv.
+This repo uses [ps_mem.py](https://github.com/pixelb/ps_mem) to get the actual memory consumption of each program, parse its output and then save the data to a csv.
 
 The csv format is not optimal due to the structure of the saved data but it's a quick script to troubleshoot out of memory server crashes.
 
